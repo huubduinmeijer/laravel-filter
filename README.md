@@ -27,7 +27,7 @@ protected $filters = [
             'receiverAddress' => ['zipcode', 'number', 'city'],
             'receiverRelation' => ['name_1'],
             'senderRelation' => ['name_1'],
-            'scope' => ['JvglNumber']
+            'scope' => ['order_number']
     ]
 ;
 ```
